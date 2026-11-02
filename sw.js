@@ -1,5 +1,5 @@
 const CACHE_NAME = "transit-v1";
-const CORE_ASSETS = ["./index.html", "./style.css?v=202611021128", "./app.js", "./manifest.json"];
+const CORE_ASSETS = ["./index.html", "./style.css?v=202611021212", "./app.js", "./manifest.json"];
 const CDN_ASSETS = [
   "https://unpkg.com/react@18.3.1/umd/react.production.min.js",
   "https://unpkg.com/react-dom@18.3.1/umd/react-dom.production.min.js",
