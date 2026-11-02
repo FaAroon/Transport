@@ -1,0 +1,12 @@
+{
+  "name": "مواصلات دمياط",
+  "short_name": "مواصلات",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F2F5F6",
+  "theme_color": "#0F4C5C",
+  "dir": "rtl",
+  "lang": "ar",
+  "icons": []
+}
